@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://tacticalcovers.com/</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://tacticalcovers.com/tacticalcovers.com/privacy</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url><loc>https://tacticalcovers.com/tacticalcovers-buyers-handbook-2026.html</loc><lastmod>2026-07-14</lastmod></url>
-  <url><loc>https://tacticalcovers.com/tacticalcovers-guide-2026.html</loc><lastmod>2026-07-14</lastmod></url>
-  <url><loc>https://tacticalcovers.com/tacticalcovers-compared-2026.html</loc><lastmod>2026-07-17</lastmod></url>
-  <url><loc>https://tacticalcovers.com/tacticalcovers-buying-guide-2026.html</loc><lastmod>2026-07-18</lastmod></url>
-  <url><loc>https://tacticalcovers.com/tacticalcovers-what-buyers-need-2026.html</loc><lastmod>2026-08-04</lastmod></url>
-  <url><loc>https://tacticalcovers.com/what-we-look-for-tacticalcovers-2026.html</loc><lastmod>2026-08-11</lastmod></url>
-  <url><loc>https://tacticalcovers.com/truth-about-tacticalcovers-2026.html</loc><lastmod>2026-08-14</lastmod></url>
-  <url><loc>https://tacticalcovers.com/smart-tacticalcovers-shopping-2026.html</loc><lastmod>2026-08-14</lastmod></url>
+  <url><loc>https://tacticalcovers.com/privacy.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://tacticalcovers.com/smart-tacticalcovers-shopping-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://tacticalcovers.com/tacticalcovers-buyers-handbook-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://tacticalcovers.com/tacticalcovers-buying-guide-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://tacticalcovers.com/tacticalcovers-compared-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://tacticalcovers.com/tacticalcovers-guide-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://tacticalcovers.com/tacticalcovers-what-buyers-need-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://tacticalcovers.com/truth-about-tacticalcovers-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://tacticalcovers.com/what-we-look-for-tacticalcovers-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
 </urlset>
